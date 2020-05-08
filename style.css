@@ -1,0 +1,383 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.intro{
+    box-sizing: border-box;
+    color: rgb(49, 109, 195);
+    font-family: serif;
+    font-size: 15px;
+    font-weight: 600;
+    text-align: center;
+    text-size-adjust: 100%;
+    text-transform: uppercase;
+    margin-top: 30px;
+}
+.intro span{
+    color: rgb(66,121,0);
+}
+.logo{
+    text-align: center;
+}
+.para{
+    text-align: justify;
+    font-family: Opensans-reg;
+    color: rgb(102,102,102);
+    font-size: 18px;
+    margin-left: 15%;
+    margin-right: 15%;
+    text-align: justify;
+    line-height: 30px;
+    margin-top: 10px;
+    display: block;
+}
+.fline{
+    margin-bottom: 20px;
+}
+.arr{
+    margin-top: 70px;
+    
+    background-color: cornflowerblue ;
+}
+.one{
+    margin-left: 10px;
+}
+
+.saylanistats{
+    background-color: rgb(36, 79, 242);
+    margin-top: 10%;
+    height: 50vh
+    ;
+    
+       
+}
+.image{
+    display: inline-flex;
+    margin-left: 15%;
+    width: 7%;
+    margin-top: 7%;  
+  
+}
+.number{
+    display: inline-flex;
+    margin-left: 14%;
+    width: 7%;
+    box-sizing: border-box;
+    font-size: 25px;
+    font-family: merriweather;
+    color: white;
+    font-weight: 500;
+}
+.alphabets{
+    display:inline-flex;
+    font-size: 9px;
+    font-family: merriweather;
+    color: white;
+    font-weight: 600;
+    text-align: right;
+}
+.alphabets span{
+    font-family: merriweather;
+    font-weight: 600;
+    font-size: 15px;
+    text-transform: uppercase;
+    color:rgb(0,255,0);
+}
+.alpha3{
+    position: relative;
+    font-size: 15px;
+    left: 200px;
+}
+
+.alpha2{
+    position: relative;
+    font-size: 15px;
+    left: 150px;
+}
+.alpha1{
+    position: relative;
+    left: 100px;
+    font-size: 15px;
+}
+.alpha{
+    position: relative;
+    left: 50px;
+    font-size: 15px;
+}
+
+.activities{
+    background-color: #F7F8FA;
+    height: 90vh;
+}
+
+
+.activities-head{
+    box-sizing: border-box;
+    text-align: center;
+    text-transform: uppercase;
+    color: rgb(36, 79, 242);
+    font-family: serif;
+    font-weight: 600;
+    font-size: 30px;
+    margin-top: 8%;
+}
+.activities-head span{
+    color: rgb(66,121,0);
+    font-size: 35px;
+}
+
+.activitiesimg{
+    
+    display: inline-flex;
+    box-sizing: border-box;
+    margin-left: 9%;
+    margin-top: 4%;
+    
+    
+}
+.imagerow1{
+    
+    width: 350px;
+    height: 250px;
+    text-align: center;
+    padding-top: 30px;
+    background-color: white;
+    margin-right: 30px;
+    box-shadow: 3px 3px 15px grey;
+    color: rgb(49, 109, 195);
+    font-size: 12px;
+    font-weight: 600;
+    font-family: serif;
+}
+
+.activitiesimg2{
+    
+    display: inline-flex;
+    box-sizing: border-box;
+    margin-left: 9%;
+    margin-top: 2%;
+    margin-bottom: 50%;
+    
+    
+}
+
+.imagerow2{
+    width: 350px;
+    height: 250px;
+    text-align: center;
+    padding-top: 30px;
+    background-color: white;
+    margin-right: 30px;
+    box-shadow: 3px 3px 15px grey;
+    color: rgb(49, 109, 195);
+    font-size: 12px;
+    font-weight: 600;
+    font-family: serif;
+    
+}
+.mission{
+    display: flex;
+    color: rgb(49, 109, 195);
+    font-weight: 600;
+    font-size: 12px;
+    font-family: merriweather-bold;
+    margin-left: 120px;
+    margin-top: 80px;
+    
+}
+.mhead2{
+    font-size: 10px;
+     position: relative ;
+     left: 60px;
+     margin-top: 30px;
+     
+}
+
+.imagesmission{
+    display: flex;
+    margin-left: 120px;
+    margin-top: 50px;   
+}
+.hepatitis{
+    display: flex;
+    
+    width: 320px;
+    height: 60px;
+    background-color: #F7F8FA;
+
+}
+.house{
+    
+    display: flex;
+    width: 320px;
+    height: 60px;
+    margin-left: 20px;
+    background-color: #F7F8FA;
+
+}
+    
+.thar{
+    background-color: #F7F8FA;
+    display: flex;
+    width: 320px;
+    height: 60px;
+    margin-top: 15px;
+    margin-left: 20px;
+
+}
+.it{
+    background-color: #F7F8FA;
+    display: flex;
+    height: 60px;
+    width: 320px;
+    margin-top: 15px;
+    
+}
+.hepatitis h3{
+    margin-left: 20px;
+    margin-top: 15px;
+    color: rgb(49, 109, 195);
+}
+.hepatitis img{
+    margin-top: 15px;
+    margin-left:15px;
+}
+.it img{
+    margin-top: 15px;
+    margin-left:15px;
+}
+.it h3{
+    color: rgb(49, 109, 195);
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.house img{
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.house h3{
+    margin-left: 20px;
+    margin-top: 17px;
+    color: rgb(49,109,195);
+}
+.thar img{
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.thar h3{
+    margin-left: 20px;
+    margin-top: 15px;
+    color: rgb(49, 109, 195);
+}
+
+.courses-para{
+    
+    width: 230px;
+    margin-left: 100px;
+    font-family: Opensans-reg;
+    color: rgb(102,102,102);
+    font-size: 13.5px;
+}
+.courses-para p span{
+    color: rgb(36, 79, 242);
+}
+.gallery-head{
+    text-align: center;
+    margin-top: 100px;
+    color: rgb(49, 109, 195);
+    font-family: serif;
+    font-size: 33px;
+}
+.gallery-head span{
+    color: rgb(66,121,0);
+    font-size: 33px;
+    font-family: serif;
+}
+.slogo{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.galleryimage{
+    margin-top: 30px;
+    margin-left: 10%;
+}    
+.last-head{
+    background-color: #25272E;
+    width: 100%;
+    height: 600px;
+    margin-top: 15%;
+}    
+.last-head-bold ul li{
+    display: inline-flex;
+    font-family: OpenSans;
+    color: white;
+    text-transform: capitalize;
+    font-size: 12px;
+    margin-top: 50px;
+     
+}
+.last-head-bold ul{
+    margin-left: 300px;
+    
+}
+
+.last-head-bold ul li h2{
+    margin-left: 250px;
+}
+.connect-us li{
+    display: inline-flex;
+    list-style: none;
+    margin-top: 10px;
+    
+}  
+.connect-us .licons{
+    margin-left: 750px;
+} 
+.connect-us-head{
+    margin-left: 60px;
+}
+.connect-us li i{
+    margin-left: 20px;
+    
+}
+.move{
+    color: rgb(187,187,187);
+    font-size: 14px;
+    font-family: sans-serif;
+    line-height: 30px;
+}
+.twonumbers{
+    list-style: none;
+    display: inline-flex;
+    color: rgb(187, 187, 187);
+    font-size: 14px;
+    font-family: sans-serif;
+}
+.twonumbers li p{
+    width: 200px;
+}
+.licons{
+    color:white;
+}
+.licons i{
+    background-color: rgb(36, 79, 242);
+    padding: 10px 12px 10px 10px;
+    border-radius: 100%;
+}
+.copyright{
+    background-color: rgb(36, 79, 242);
+    width: 100%;
+    height: 50px;
+    /* height: 5vh; */
+    
+}
+.copyright p{
+    color: white;
+    margin-left: 60px;
+    font-size: 12px;
+    position: relative;
+    top: 10px;
+
+}
+
